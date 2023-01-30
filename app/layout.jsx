@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
     <html lang="tr" className="bg-slate-900 text-white">
       <head />
 
-      <body className={`${montserrat.className} mx-32 my-12`} >
+      <body className={`${montserrat.className} mx-16 my-6`} >
         {/* <nav>
           <h1>Logo</h1>
           <ul>
